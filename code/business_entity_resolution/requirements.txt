@@ -1,0 +1,4 @@
+# Business Entity Resolution Package Dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.2.0
