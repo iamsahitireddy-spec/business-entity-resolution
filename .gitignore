@@ -76,6 +76,7 @@ Thumbs.db
 dataset/train/*.tsv
 dataset/test/*.tsv
 !dataset/**/.gitkeep
+student_resource/
 
 # Output files (Ignore generated TSV & ZIP artifacts but preserve output directory)
 output/*.tsv
